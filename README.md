@@ -4,3 +4,5 @@ An e-commerce site. product listing, selecting and order generating.
 A minimal setup to code React in Vite with HMR and some ESLint rules.
 
 ![Project Screenshot](https://github.com/christina-elisha/e-store/blob/main/asset/s1.png)
+![Project Screenshot](https://github.com/christina-elisha/e-store/blob/main/asset/s2.png)
+![Project Screenshot](https://github.com/christina-elisha/e-store/blob/main/asset/s3.png)
